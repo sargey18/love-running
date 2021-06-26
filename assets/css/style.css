@@ -166,16 +166,16 @@ hr{
     text-align: right;
 }
 
-#welcome {
+.welcome {
     text-align: center;
     margin: 20px 0;
     font-size: 280%;
 }
 
-#cicle-container {
+#circle-container {
     width: 300px;
     height: 300px;
-    padding: 300px;
+    padding: 30px;
     border-style: solid;
     border-color: #ccc;
     border-width: 1px;
@@ -231,7 +231,7 @@ footer{
     display: inline;
 }
 
-.social-networks i {
+.social-networks .foot {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
